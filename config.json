@@ -1,15 +1,15 @@
 {
   "mongoURI": "mongodb+srv://pankajsk118_db_user:4fkbHZKFujcCMXcU@cluster0.zwviz9n.mongodb.net/?appName=Cluster0",
-  "ownerID": "100001821724559",
+  "ownerID": "100003326487089",
   "adminIDs": [
-    "100001821724559",
+    "100033685782498",
     "ADMIN_ID_2"
   ],
   "supportIDs": [
-    "100001821724559",
+    "100033685782498",
     "SUPPORT_ID_2"
   ],
-  "adminInboxThreadID": "100001821724559",
+  "adminInboxThreadID": "100033685782498",
   "prefix": ".",
   "fcaOptions": {
     "forceLogin": false,
